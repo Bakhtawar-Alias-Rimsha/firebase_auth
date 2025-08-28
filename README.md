@@ -34,3 +34,5 @@ Firebase Security Rules - Data protection and user authorization
 ![alt text](img_2.png)
 
 ![alt text](img_3.png)
+
+author: Bakhtawar Alias Rimsha
