@@ -42,12 +42,7 @@ Retrieved and displayed saved data in the app
 
 Ensured real-time updates from Firestore
 
-## 🛠️ Tech Stack
-Frontend: Flutter (Dart)
 
-Backend: Firebase
-
-State Management: Provider
 
 ## 📦 Firebase Services Used
 🔐Firebase Authentication - Email/Password authentication
